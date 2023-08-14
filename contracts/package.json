@@ -1,0 +1,17 @@
+{
+  "name": "@you-protocol/contracts",
+  "version": "1.0.0",
+  "description": "YOU contracts to support Proof of Reputation.",
+  "license": "MIT",
+  "files": [
+    "Semaphore.sol",
+    "YOURegistry.sol",
+    "**/*.sol"
+  ],
+  "keywords": [],
+  "homepage": "https://www.youcoin.org/",
+  "dependencies": {
+    "@openzeppelin/contracts": "4.7.3",
+    "@zk-kit/incremental-merkle-tree.sol": "1.3.3"
+  }
+}

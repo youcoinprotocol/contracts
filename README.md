@@ -1,0 +1,1 @@
+This is built on top of Sempahore protocol. Refer to [link](https://github.com/semaphore-protocol/semaphore/tree/main/packages/contracts) for more info.
